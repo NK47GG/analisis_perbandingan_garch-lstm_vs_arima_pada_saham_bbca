@@ -1,0 +1,1 @@
+# analisis_perbandingan_garch-lstm_vs_arima_pada_saham_bbca
